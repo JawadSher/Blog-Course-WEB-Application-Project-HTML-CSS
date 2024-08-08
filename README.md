@@ -1,12 +1,4 @@
-<h1 align="center"">WEB Application Development Projects</h1>
-<h1 align="center">Hi 👋, I'm Jawad Sher</h1>
-<h3 align="center">Penetration Testser | Cyber Security Student | RED Teamer | CTF's Player at THM/HTB | WEB Application Developer | Programmer</h3>
-
-- 🔭 I’m currently working on **Learning Full Stack WEB Application Development**
-
-- 🌱 I’m currently learning **Full Stack Web Application Development | C++ DSA | Cyber Security**
-
-- These are all the projects based on Web Application Development that help to enhance development Skills.
+<h1 align="center"">WEB APPLICATION DEVELOPEMENT PROJECTS</h1>
 
 <img src="https://miro.medium.com/v2/resize:fit:3200/format:webp/0*de0IdiUSoJTwgsys.gif" >
 
