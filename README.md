@@ -58,5 +58,3 @@
     </a>
 </p>
 
-<br>
-<img src="https://cdn.dribbble.com/users/3375/screenshots/2550813/media/192a165085af18ca711d0827baf01cd0.gif" width="100%">
